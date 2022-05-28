@@ -11,7 +11,7 @@ You can get involved by <a href="mailto:dsmlsenecacollege@gmail.com">emailing</a
 
 👩‍💻 Useful resources 
 
-You will be able to find our docs as they become available <a href="https://github.com/DSML-Seneca">here</a>. Also make sure to follow us on our <a href="https://www.linkedin.com/company/dsml-seneca/">LinkedIn</a> and <a href="https://www.instagram.com/dsmlsenecacollege/">Instagram</a>!
+You will be able to find our docs as they become available <a href="https://github.com/DSML-Seneca/tech-tutorials">here</a>. Also make sure to follow us on our <a href="https://www.linkedin.com/company/dsml-seneca/">LinkedIn</a> and <a href="https://www.instagram.com/dsmlsenecacollege/">Instagram</a>!
 
 
 🍿 Fun fact
